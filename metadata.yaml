@@ -1,10 +1,16 @@
 _repo: My-Friend-Pasquale-and-other-stories_49484
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49484-h/images/cover.jpg
 creator:
   author:
     agent_name: Tait, James Selwin
     gutenberg_agent_id: '45360'
     url: http://www.gutenberg.org/2009/agents/45360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49484#My-Friend-Pasquale-and-other-stories
 gutenberg_issued: '2015-07-19'
 gutenberg_type: Text
 identifiers:
